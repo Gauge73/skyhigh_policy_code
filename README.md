@@ -1,1 +1,2 @@
 # skyhigh_policy_code
+This repository is intended for Skyhigh Security employees and advanced admin users familiar with the Skyhigh policy code engine.  Each directory within the project is a ruleset built to address a particular use case.  To learn more about the Skyhigh policy engine, visit [our documentation](https://success.myshn.net)
